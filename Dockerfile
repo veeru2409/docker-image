@@ -1,5 +1,5 @@
 # Use the official lightweight Python image
-FROM python:3.10
+FROM python:3.1
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1
